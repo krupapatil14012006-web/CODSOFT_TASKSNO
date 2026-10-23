@@ -1,0 +1,14 @@
+Student_ID,Name,Age,Gender,Marks,City
+S001,Rahul,20,Male,85,Belgaum
+S002,Priya,21,Female,90,Hubli
+S003,Amit,,Male,78,Belgaum
+S004,Sneha,20,female,88,belgaum
+S005,Raj,twenty,Male,75,Hubli
+S006,Neha,22,Female,92,Mumbai
+S007,Kiran,21,Male,81,Belgaum
+S008,Pooja,20,Female,,Hubli
+S009,Arjun,23,Male,76,Mumbai
+S010,Meena,21,Female,89,Belgaum
+S010,Meena,21,Female,89,Belgaum
+S011,Ravi,22,Male,95,Belgaum
+S012,Anita,,Female,87,Mumbai
